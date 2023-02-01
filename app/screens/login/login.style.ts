@@ -18,5 +18,12 @@ export const loginStyle = StyleSheet.create({
     },
     input: {
         backgroundColor: 'transparent',
-    }
+    },
+    logo: {
+        resizeMode: 'contain',
+        width: '100%',
+        height: 100,
+        
+    },
+    
 })

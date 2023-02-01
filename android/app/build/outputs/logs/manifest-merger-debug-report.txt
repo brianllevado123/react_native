@@ -8,12 +8,14 @@ MERGED from D:\Github\react_native\android\app\src\main\AndroidManifest.xml:1:1-
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\b73059799c11af1ff8cbd11cf2091e39\transformed\jetified-flipper-network-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\6776eefd349b41e85697ac1a85c33edd\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\4b33b5e0a3553e4713dfaf342b84d803\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-gesture-handler] D:\Github\react_native\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] D:\Github\react_native\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] D:\Github\react_native\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-vector-icons] D:\Github\react_native\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.1] C:\Users\USER\.gradle\caches\transforms-3\f89c26f7e1edae0f96f0787e13312620\transformed\jetified-react-android-0.71.1-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\2e8bef56a5fd685a0a2ce7e442fe7383\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.1] C:\Users\USER\.gradle\caches\transforms-3\371021b89ef1c7beb42b83ca030b5f8d\transformed\jetified-hermes-android-0.71.1-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] D:\Github\react_native\node_modules\react-native-reanimated\android\build\.transforms\a73a7841c50881978f2452acbf60f9c1\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\USER\.gradle\caches\transforms-3\25dc40ca3e20853fb6f76efd786454cc\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\USER\.gradle\caches\transforms-3\7b3e6b5d2c4461de7190b5d160cbc749\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.6.0] C:\Users\USER\.gradle\caches\transforms-3\3d08d2d662931320fc77671e81b4fb1c\transformed\jetified-stetho-2.6.0\AndroidManifest.xml:2:1-9:12
@@ -47,8 +49,8 @@ MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\USER\.gradle\caches\
 MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\USER\.gradle\caches\transforms-3\454e2f9d58ffe8c341f6b0ac1f8a0f42\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\492cf5ab671cdefc883dd8848ba10d0b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\2bba420578746065a7f679235e482c5a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\a6d863f6306a1607fa83d3704e72f9c7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\aebc66b66796823ff8870f2e96466791\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\f9f339b0ec8124739764582bc6810ceb\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\832c63e6a34c51d66c1627cb1ed51834\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\1aa1fb8f5eff7efe8f572058245f2e2a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\a58026b8ba6fda39e2eba367af98434e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -175,6 +177,8 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\USER\.
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\6776eefd349b41e85697ac1a85c33edd\transformed\jetified-flipper-fresco-plugin-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\4b33b5e0a3553e4713dfaf342b84d803\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.125.0] C:\Users\USER\.gradle\caches\transforms-3\4b33b5e0a3553e4713dfaf342b84d803\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] D:\Github\react_native\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Github\react_native\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] D:\Github\react_native\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] D:\Github\react_native\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] D:\Github\react_native\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -187,6 +191,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\2e8bef56a5fd685a0a2ce7e442fe7383\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.react:hermes-android:0.71.1] C:\Users\USER\.gradle\caches\transforms-3\371021b89ef1c7beb42b83ca030b5f8d\transformed\jetified-hermes-android-0.71.1-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:hermes-android:0.71.1] C:\Users\USER\.gradle\caches\transforms-3\371021b89ef1c7beb42b83ca030b5f8d\transformed\jetified-hermes-android-0.71.1-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Github\react_native\node_modules\react-native-reanimated\android\build\.transforms\a73a7841c50881978f2452acbf60f9c1\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Github\react_native\node_modules\react-native-reanimated\android\build\.transforms\a73a7841c50881978f2452acbf60f9c1\transformed\jetified-react-native-reanimated-71-hermes\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\USER\.gradle\caches\transforms-3\25dc40ca3e20853fb6f76efd786454cc\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fbjni:fbjni:0.3.0] C:\Users\USER\.gradle\caches\transforms-3\25dc40ca3e20853fb6f76efd786454cc\transformed\jetified-fbjni-0.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] C:\Users\USER\.gradle\caches\transforms-3\7b3e6b5d2c4461de7190b5d160cbc749\transformed\jetified-flipper-2.6.0\AndroidManifest.xml:5:5-7:41
@@ -253,10 +259,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\USE
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\492cf5ab671cdefc883dd8848ba10d0b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\2bba420578746065a7f679235e482c5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\2bba420578746065a7f679235e482c5a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\a6d863f6306a1607fa83d3704e72f9c7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\USER\.gradle\caches\transforms-3\a6d863f6306a1607fa83d3704e72f9c7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\aebc66b66796823ff8870f2e96466791\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\USER\.gradle\caches\transforms-3\aebc66b66796823ff8870f2e96466791\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\f9f339b0ec8124739764582bc6810ceb\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\USER\.gradle\caches\transforms-3\f9f339b0ec8124739764582bc6810ceb\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\832c63e6a34c51d66c1627cb1ed51834\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\USER\.gradle\caches\transforms-3\832c63e6a34c51d66c1627cb1ed51834\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-3\1aa1fb8f5eff7efe8f572058245f2e2a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
