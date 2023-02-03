@@ -1,7 +1,7 @@
 import React from 'react'; 
 import { SafeAreaView, View, Text, Button} from 'react-native';
 import { homeStyle } from './home.style';
-import { HeaderComponent } from '../components/header/header.components';
+import { HeaderComponent } from '../../components/header/header.components';
 
 interface HomeScreenProps {
     navigation: any;

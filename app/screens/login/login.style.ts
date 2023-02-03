@@ -11,7 +11,12 @@ export const loginStyle = StyleSheet.create({
     form: {
         width: '80%',
     },
-    cardButton: {
+    loginBtn: {
+        marginTop: 15,
+        marginLeft: 0,
+        marginRight: 0, 
+    },
+    registerBtn: {
         margin: 2,
         marginLeft: 0,
         marginRight: 0, 
@@ -19,6 +24,7 @@ export const loginStyle = StyleSheet.create({
     input: {
         backgroundColor: 'transparent',
     },
+    
     logo: {
         resizeMode: 'contain',
         width: '100%',

@@ -2,7 +2,7 @@ import React from 'react';
 import { SafeAreaView, ScrollView, View} from 'react-native';
 import { Button, TextInput } from 'react-native-paper';
 import { registerStyle } from './register.style';
-import { HeaderComponent } from '../components/header/header.components';
+import { HeaderComponent } from '../../components/header/header.components';
 
 interface RegisterScreenProps {
     navigation: any;
@@ -33,3 +33,5 @@ export const RegisterScreen = (props: RegisterScreenProps) => {
         </SafeAreaView>
     );
 }
+
+export default RegisterScreen;
